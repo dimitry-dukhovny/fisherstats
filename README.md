@@ -1,2 +1,4 @@
-# Hosted on wabe
-To host your own, just `make html`
+# Documentation example
+
+We use this example in the lesson
+[How to document your research software](https://coderefinery.github.io/documentation/).

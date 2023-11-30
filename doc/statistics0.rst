@@ -14,6 +14,7 @@ Statistics in Practice
 
 * We make an inference from :math:`\bar{x}`
 
+
 Central Limit Theorem
 =====================
 

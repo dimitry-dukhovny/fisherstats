@@ -173,3 +173,30 @@ Two Dice
 
 * for *n* *x*-sided dice rolled, the odds of a streak are :math:`\frac{x}{x^n} = \frac{1}{x^{n-1}}`
 
+Games
+=====
+
+Question 1
+----------
+
+* We are playing a guessing game with a bag of 66 marbles.
+
+  * 22 marbles are red
+  * 22 marbles are white
+  * 22 marbles are blue
+  * We guess the color.
+  * We take a marble from the bag and note whether we were right.
+  * We put the marble back.
+
+* What are the odds we will guess the color correctly three times in a row?
+* We guessed correctly twice.  We are about to guess again.  What are the odds we will guess correctly again?
+* How are these two questions different?
+
+Question 2
+----------
+
+* Let's playing the same game with marbles, but without replacing the marbles.
+
+* Also, instead of us doing the guessing, we are letting a truely random number generator pick red, white, or blue.  The number generator is unbiased.
+
+* What are the odds our random number generator will make three correct guesses in a row?

@@ -13,3 +13,9 @@ Statistics in Practice
   * ...a **statistic** called the **sample mean** or :math:`\bar{x}`
 
 * We make an inference from :math:`\bar{x}`
+
+Central Limit Theorem
+=====================
+
+* As your sample size tends toward infinity, your sample begins to look like the population.
+

@@ -6,5 +6,6 @@ Stats with Duke and Fish
    :caption: Contents:
 
    arithmetic
+   basic_probability
    statistics0
 ..

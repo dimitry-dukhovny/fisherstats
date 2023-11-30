@@ -85,7 +85,7 @@ Socks Example
   * Let us prove it by counting pairs of possiblities
   * Possible draw pairs
   * We have 20 possible pairs.  Eight of them are mismatching socks.
-  * :math:`\frac{8){20} = \frac{2}{5}`
+  * :math:`\frac{8}{20} = \frac{2}{5}`
   * We have the same result.
 
 +---------+---------+
